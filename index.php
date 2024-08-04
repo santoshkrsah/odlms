@@ -1,6 +1,6 @@
 
 <!DOCTYPE HTML>
-<html> hg
+<html> h
 <head>
 <title>Online Diagnostic Lab Management System | Home Page</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
